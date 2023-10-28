@@ -1,2 +1,2 @@
 # easy_dl_framework
-build deep learning framework by python
+build a deep learning framework by python
